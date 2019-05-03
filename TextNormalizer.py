@@ -28,7 +28,8 @@ class TextNormalizer:
             .replace('>', '')\
             .replace('}', '')\
             .replace('{', '')\
-            .replace(':', '')
+            .replace(':', '')\
+            .replace('%', '')
         return text
 
     def removenumb(self, text):
