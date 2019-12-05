@@ -1,2 +1,2 @@
-# NBClassifier
-Projeto de aplicação do NaiveBayes na classificação de documentos. 
+# NaiveBayesClassifier
+A document classifier based on Naive Bayes algorithm.
